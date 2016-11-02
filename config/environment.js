@@ -11,11 +11,20 @@ module.exports = function(environment) {
         // Here you can enable experimental features on an ember canary build
         // e.g. 'with-controller': true
       },
+
       EXTEND_PROTOTYPES: {
         // Prevent Ember Data from overriding Date.parse.
         Date: false
       }
     },
+
+    firebase: {
+      apiKey: "AIzaSyAQ8I0f2NPm2gyXnN5S6V2j69y1CSWf38U",
+      authDomain: "ecommerce-product.firebaseapp.com",
+      databaseURL: "https://ecommerce-product.firebaseio.com",
+      storageBucket: "ecommerce-product.appspot.com",
+    },
+
 
     APP: {
       // Here you can pass flags/options to your application instance

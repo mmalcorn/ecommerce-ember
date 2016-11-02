@@ -1,0 +1,17 @@
+{ "products": [{
+    "title": "Shoe",
+    "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxTGEeaHwf825AhgURMXuBlmNEIph8PX8vCvqixeOalSTapj9ENg",
+    "description": "A single warm boot that feels fabulous on your toes",
+    "cost": 50
+  }, {
+    "title": "Hot pink vest",
+    "image": "https://fullsourcemedia.s3.amazonaws.com/images/items/a/raw/ERB-S721-PINK-A1.jpg",
+    "description": "Wow!  A real steal!",
+    "cost": 5
+  }, {
+    "title": "Hat",
+    "image": "http://thumbs3.ebaystatic.com/d/l225/m/m25Wf4iZnrlBYypJR4qot4A.jpg",
+    "description": "Custom made, looks sharp on anybody",
+    "cost": 10
+  }]
+}
